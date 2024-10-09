@@ -30,4 +30,4 @@ jobs:
 
       # Run tests
       - name: Run tests
-        run: jest test
+        run: npx jest
